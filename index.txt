@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>Tenis for your comfort</title>
+</head>
+<body background="fodi.jpg"> 
+<font face="Bookman Old Style"</font>
+<font size=5</font>
+<font color="white"</font>
+<hr>
+<h1 align="center">TENIS NIKE</h1>
+<p>¿Quién los creo?:Se sabe que a finales de los 50s, Philip Knight, profesor y ex-atleta de la Universidad de Oregón, buscaba hacerse un nombre en el negocio de la distribución de calzado deportivo, por lo que viajó a Japón a proponerle a la compañía Onitsuka Tiger distribuir sus famosas zapatillas para atletismo en Estados Unidos.</p>
+<div align="center"><img borde="15px" src="historia nike.jpg" heigh="500px" width="500px"></div>
+<hr>
+<h1 align="center">Modelos de tenis (populares)</h1>
+<p align="center">Nike Air force 1</p> 
+<div align="center"><img borde="15px" src="AF1.jpg" heigh="500px" width="500px"></div>
+<p align="center">Nike Blazer </p> 
+<div align="center"><img borde="15px" src="nike2.jpg" heigh="500px" width="500px"></div>
+<p align="center">Nike Dunk</p> 
+<div align="center"><img borde="15px" src="nike dunk love green.jpg" heigh="500px" width="500px"></div>
+<p align="center">Nike Jordan 4 Fire Red </p> 
+<div align="center"><img borde="15px" src="Air Jordan 4 Fire Red.jpg" heigh="500px" width="500px"></div>
+<p align="center">PSG x Nike Air Jordan</p> 
+<div align="center"><img borde="15px" src="parisss.jpg" heigh="500px" width="500px"></div>
+<p align="center">Nike Jordan 12 Retro Royalty taxi</p> 
+
+<div align="center"><img borde="15px" src="Jordan 12.jpg" heigh="500px" width="500px"></div>
+<p align="center">¡Muchas Gracias por ver esta presentación de tenis nike!</p> 
+<div align="center"><img src="teni.gif"></div>
+<font color="white"</font>
+
+<p></p>
+<p></p>
+<a href="meatpack.html"> Aqui nos puedes contactar! </a>
+<p></p>
+<p></p>
+<a href="estilos.html"> Ver más estilos de tenis </a> 
+<font size=7</font>
+</body> 
+</html>
